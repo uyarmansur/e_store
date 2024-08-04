@@ -26,7 +26,7 @@ function WhyJoin() {
             className="text-brown border-brown hover:text-white hover:bg-brown px-10 py-3"
           />
         </div>
-        <div className="w-full md:w-[600px] h-[290px] relative md:absolute right-0">
+        <div className="w-full md:max-w-[600px] h-[290px] relative md:absolute right-0">
           <img
             className="absolute -right-4 top-1/2 -translate-y-1/2 "
             src="/Deco-video.png"

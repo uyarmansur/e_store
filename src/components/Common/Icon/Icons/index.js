@@ -1,3 +1,4 @@
+export { default as MobileMenu } from "./MobileMenu";
 export { default as Search } from "./Search";
 export { default as ShieldCheck } from "./ShieldCheck";
 export { default as Podcast } from "./Podcast";
@@ -10,3 +11,4 @@ export { default as Facebook } from "./Facebook";
 export { default as Twitter } from "./Twitter";
 export { default as Youtube } from "./Youtube";
 export { default as Linkedin } from "./Linkedin";
+export { default as ShoppingCart } from "./ShoppingCart";
